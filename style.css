@@ -54,6 +54,7 @@ h1 {
     background: #fff;
     border-radius: 3rem;
     max-width: 60rem;
+    margin: 0 auto;
 }
 
 .feature-right {
